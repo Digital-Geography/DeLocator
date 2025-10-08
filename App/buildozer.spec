@@ -45,10 +45,10 @@ requirements = python3,kivy==2.2.1,kivymd,kivy_garden.mapview,geopy,pyperclip,ov
 # requirements.source.kivy = ../../kivy
 
 # (str) Presplash of the application
-presplash.filename = presplash.png
+presplash.filename = icons/presplash.png
 
 # (str) Icon of the application
-icon.filename = legal_icons/logo.png
+icon.filename = icons/logo.png
 
 # (list) Supported orientations
 # Valid options are: landscape, portrait, portrait-reverse or landscape-reverse
